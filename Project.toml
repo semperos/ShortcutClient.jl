@@ -1,0 +1,14 @@
+name = "ShortcutClient"
+uuid = "4e6207fc-2eac-4e87-a4c7-54305e430502"
+authors = ["Daniel Gregoire <daniel.l.gregoire@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+OpenAPI = "d5e62ea6-ddf3-4d43-8e4c-ad5e6c8bfd7d"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
+
+[compat]
+Dates = "1.11.0"
+TimeZones = "1.20.0"
